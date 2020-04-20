@@ -1,109 +1,109 @@
 [submodule "libfm"]
 	path = libfm
-	url = ../../lxde/libfm.git
+	url = https://github.com/lxde/libfm.git
 	branch = master
 [submodule "menu-cache"]
 	path = menu-cache
-	url = ../../lxde/menu-cache.git
+	url = https://github.com/lxde/menu-cache.git
 	branch = master
 [submodule "liblxqt"]
 	path = liblxqt
-	url = ../liblxqt.git
+	url = https://github.com/lxqt/liblxqt.git
 	branch = master
 [submodule "libqtxdg"]
 	path = libqtxdg
-	url = ../libqtxdg.git
+	url = https://github.com/lxqt/libqtxdg.git
 	branch = master
 [submodule "lxqt-about"]
 	path = lxqt-about
-	url = ../lxqt-about.git
+	url = https://github.com/lxqt/lxqt-about.git
 	branch = master
 [submodule "lxqt-powermanagement"]
 	path = lxqt-powermanagement
-	url = ../lxqt-powermanagement.git
+	url = https://github.com/lxqt/lxqt-powermanagement.git
 	branch = master
 [submodule "pcmanfm-qt"]
 	path = pcmanfm-qt
-	url = ../pcmanfm-qt.git
+	url = https://github.com/lxqt/pcmanfm-qt.git
 	branch = master
 [submodule "libsysstat"]
 	path = libsysstat
-	url = ../libsysstat.git
+	url = https://github.com/lxqt/libsysstat.git
 	branch = master
 [submodule "lxqt-runner"]
 	path = lxqt-runner
-	url = ../lxqt-runner.git
+	url = https://github.com/lxqt/lxqt-runner.git
 	branch = master
 [submodule "lxqt-policykit"]
 	path = lxqt-policykit
-	url = ../lxqt-policykit.git
+	url = https://github.com/lxqt/lxqt-policykit.git
 	branch = master
 [submodule "lxqt-panel"]
 	path = lxqt-panel
-	url = ../lxqt-panel.git
+	url = https://github.com/lxqt/lxqt-panel.git
 	branch = master
 [submodule "lxqt-openssh-askpass"]
 	path = lxqt-openssh-askpass
-	url = ../lxqt-openssh-askpass.git
+	url = https://github.com/lxqt/lxqt-openssh-askpass.git
 	branch = master
 [submodule "lxqt-notificationd"]
 	path = lxqt-notificationd
-	url = ../lxqt-notificationd.git
+	url = https://github.com/lxqt/lxqt-notificationd.git
 	branch = master
 [submodule "lxqt-config"]
 	path = lxqt-config
-	url = ../lxqt-config.git
+	url = https://github.com/lxqt/lxqt-config.git
 	branch = master
 [submodule "lximage-qt"]
 	path = lximage-qt
-	url = ../lximage-qt.git
+	url = https://github.com/lxqt/lximage-qt.git
 	branch = master
 [submodule "lxqt-globalkeys"]
 	path = lxqt-globalkeys
-	url = ../lxqt-globalkeys.git
+	url = https://github.com/lxqt/lxqt-globalkeys.git
 	branch = master
 [submodule "lxmenu-data"]
 	path = lxmenu-data
-	url = ../../lxde/lxmenu-data.git
+	url = https://github.com/lxde/lxmenu-data.git
 	branch = master
 [submodule "lxqt-qtplugin"]
 	path = lxqt-qtplugin
-	url = ../lxqt-qtplugin.git
+	url = https://github.com/lxqt/lxqt-qtplugin.git
 	branch = master
 [submodule "lxqt-session"]
 	path = lxqt-session
-	url = ../lxqt-session.git
+	url = https://github.com/lxqt/lxqt-session.git
 [submodule "lxqt-admin"]
 	path = lxqt-admin
-	url = ../lxqt-admin.git
+	url = https://github.com/lxqt/lxqt-admin.git
 [submodule "lxqt-sudo"]
 	path = lxqt-sudo
-	url = ../lxqt-sudo
+	url = https://github.com/lxqt/lxqt-sudo
 [submodule "libfm-qt"]
 	path = libfm-qt
-	url = ../libfm-qt
+	url = https://github.com/lxqt/libfm-qt
 	branch = master
 [submodule "pavucontrol-qt"]
 	path = pavucontrol-qt
-	url = ../pavucontrol-qt
+	url = https://github.com/lxqt/pavucontrol-qt
 [submodule "qtermwidget"]
 	path = qtermwidget
-	url = ../qtermwidget
+	url = https://github.com/lxqt/qtermwidget
 [submodule "qterminal"]
 	path = qterminal
-	url = ../qterminal
+	url = https://github.com/lxqt/qterminal
 [submodule "lxqt-build-tools"]
 	path = lxqt-build-tools
-	url = ../lxqt-build-tools
+	url = https://github.com/lxqt/lxqt-build-tools
 [submodule "lxqt-themes"]
 	path = lxqt-themes
-	url = ../lxqt-themes
+	url = https://github.com/lxqt/lxqt-themes
 [submodule "lxqt-archiver"]
 	path = lxqt-archiver
-	url = ../lxqt-archiver
+	url = https://github.com/lxqt/lxqt-archiver
 [submodule "qps"]
 	path = qps
-	url = ../qps
+	url = https://github.com/lxqt/qps
 [submodule "screengrab"]
 	path = screengrab
-	url = ../screengrab
+	url = https://github.com/lxqt/screengrab

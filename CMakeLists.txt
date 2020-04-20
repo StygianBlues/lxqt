@@ -8,7 +8,6 @@ endif()
 
 option(UPDATE_TRANSLATIONS "Update source translation translations/*.ts files" OFF)
 
-option(LXQT_BUILD_OBCONF_QT "Build OBConfQt" Yes)
 option(LXQT_BUILD_QTERMWIDGET "Build QTermWidget" Yes)
 option(LXQT_BUILD_QTERMINAL "Build QTerminal" Yes)
 option(LXQT_BUILD_LXIMAGE_QT "Build LXImageQt" Yes)
@@ -37,10 +36,6 @@ add_subdirectory(pcmanfm-qt)
 add_subdirectory(lxqt-sudo)
 add_subdirectory(pavucontrol-qt)
 add_subdirectory(lxqt-archiver)
-
-if (LXQT_BUILD_OBCONF_QT)
-    add_subdirectory(obconf-qt)
-endif()
 
 if (LXQT_BUILD_QTERMWIDGET)
     add_subdirectory(qtermwidget)

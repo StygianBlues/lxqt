@@ -54,10 +54,6 @@
 	path = lxqt-config
 	url = ../lxqt-config.git
 	branch = master
-[submodule "obconf-qt"]
-	path = obconf-qt
-	url = ../obconf-qt.git
-	branch = master
 [submodule "lximage-qt"]
 	path = lximage-qt
 	url = ../lximage-qt.git
